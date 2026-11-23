@@ -3,9 +3,15 @@
 {
   # Narzędzia dostępne w powłoce projektu
   packages = with pkgs; [
-    raylib          # biblioteka graficzna silnika
-    nlohmann_json   # arkusze sprite'ów (JSON) - zależność silnika
-    box2d           # fizyka (Box2D v3) - zależność silnika
+    # raylib, nlohmann_json i Box2D pobiera CMake silnika (FetchContent) w przypiętych wersjach.
+    # Do kompilacji raylib (GLFW) potrzebne są nagłówki X11 i OpenGL:
+    libx11
+    libxrandr
+    libxinerama
+    libxcursor
+    libxi
+    libxext
+    libGL
     cmake
     ninja
     pkg-config
@@ -52,7 +58,7 @@
   '';
 
   enterShell = ''
-    echo "Gra na Raycade (raylib ${pkgs.raylib.version})"
+    echo "Gra na Raycade"
     echo "  build  - konfiguracja i kompilacja (RAYCADE_DIR=... - lokalny silnik)"
     echo "  run    - kompilacja i uruchomienie"
     echo "  fmt    - formatowanie kodu"

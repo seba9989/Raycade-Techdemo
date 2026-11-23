@@ -11,7 +11,7 @@ include(FetchContent)
 FetchContent_Declare(
     raycade
     GIT_REPOSITORY https://github.com/seba9989/Raycade.git
-    GIT_TAG main
+    GIT_TAG dev
     GIT_SHALLOW TRUE
 )
 FetchContent_MakeAvailable(raycade) # demo silnika nie jest budowane (to nie główny projekt)

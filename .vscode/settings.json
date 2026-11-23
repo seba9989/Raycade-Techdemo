@@ -1,0 +1,5 @@
+{
+    // ścieżki nagłówków i flagi (C++23) z CMake - te same, z którymi kompiluje się gra
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/build/compile_commands.json",
+    "C_Cpp.default.cppStandard": "c++23"
+}

@@ -1,0 +1,1359 @@
+{
+ "frames": [
+  {
+   "filename": "arcade 0.aseprite",
+   "frame": {
+    "x": 1,
+    "y": 1,
+    "w": 48,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 24
+   },
+   "duration": 100
+  },
+  {
+   "filename": "arcade 1.aseprite",
+   "frame": {
+    "x": 50,
+    "y": 1,
+    "w": 48,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 24
+   },
+   "duration": 100
+  },
+  {
+   "filename": "arcade 2.aseprite",
+   "frame": {
+    "x": 99,
+    "y": 1,
+    "w": 48,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 24
+   },
+   "duration": 100
+  },
+  {
+   "filename": "arcade 3.aseprite",
+   "frame": {
+    "x": 148,
+    "y": 1,
+    "w": 48,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 24
+   },
+   "duration": 100
+  },
+  {
+   "filename": "arcade 4.aseprite",
+   "frame": {
+    "x": 197,
+    "y": 1,
+    "w": 48,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 24
+   },
+   "duration": 100
+  },
+  {
+   "filename": "arcade 5.aseprite",
+   "frame": {
+    "x": 1,
+    "y": 26,
+    "w": 48,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 24
+   },
+   "duration": 100
+  },
+  {
+   "filename": "arcade 6.aseprite",
+   "frame": {
+    "x": 50,
+    "y": 26,
+    "w": 48,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 24
+   },
+   "duration": 100
+  },
+  {
+   "filename": "arcade 7.aseprite",
+   "frame": {
+    "x": 99,
+    "y": 26,
+    "w": 48,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 24
+   },
+   "duration": 100
+  },
+  {
+   "filename": "arcade 8.aseprite",
+   "frame": {
+    "x": 148,
+    "y": 26,
+    "w": 48,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 24
+   },
+   "duration": 100
+  },
+  {
+   "filename": "arcade 9.aseprite",
+   "frame": {
+    "x": 197,
+    "y": 26,
+    "w": 48,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 24
+   },
+   "duration": 1800
+  },
+  {
+   "filename": "arcade 10.aseprite",
+   "frame": {
+    "x": 1,
+    "y": 51,
+    "w": 48,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 24
+   },
+   "duration": 50
+  },
+  {
+   "filename": "arcade 11.aseprite",
+   "frame": {
+    "x": 50,
+    "y": 51,
+    "w": 48,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 24
+   },
+   "duration": 50
+  },
+  {
+   "filename": "arcade 12.aseprite",
+   "frame": {
+    "x": 99,
+    "y": 51,
+    "w": 48,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 24
+   },
+   "duration": 50
+  },
+  {
+   "filename": "arcade 13.aseprite",
+   "frame": {
+    "x": 148,
+    "y": 51,
+    "w": 48,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 24
+   },
+   "duration": 350
+  },
+  {
+   "filename": "arcade 14.aseprite",
+   "frame": {
+    "x": 197,
+    "y": 51,
+    "w": 48,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 24
+   },
+   "duration": 150
+  },
+  {
+   "filename": "arcade 15.aseprite",
+   "frame": {
+    "x": 1,
+    "y": 76,
+    "w": 48,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 24
+   },
+   "duration": 100
+  },
+  {
+   "filename": "arcade 16.aseprite",
+   "frame": {
+    "x": 50,
+    "y": 76,
+    "w": 104,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 104,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 104,
+    "h": 20
+   },
+   "duration": 160
+  },
+  {
+   "filename": "arcade 17.aseprite",
+   "frame": {
+    "x": 1,
+    "y": 101,
+    "w": 104,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 104,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 104,
+    "h": 20
+   },
+   "duration": 160
+  },
+  {
+   "filename": "arcade 18.aseprite",
+   "frame": {
+    "x": 106,
+    "y": 101,
+    "w": 104,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 104,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 104,
+    "h": 20
+   },
+   "duration": 160
+  },
+  {
+   "filename": "arcade 19.aseprite",
+   "frame": {
+    "x": 1,
+    "y": 122,
+    "w": 104,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 104,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 104,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 20.aseprite",
+   "frame": {
+    "x": 106,
+    "y": 122,
+    "w": 104,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 104,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 104,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 21.aseprite",
+   "frame": {
+    "x": 1,
+    "y": 143,
+    "w": 104,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 104,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 104,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 22.aseprite",
+   "frame": {
+    "x": 106,
+    "y": 143,
+    "w": 16,
+    "h": 16
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 16
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 16
+   },
+   "duration": 100
+  },
+  {
+   "filename": "arcade 23.aseprite",
+   "frame": {
+    "x": 123,
+    "y": 143,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 24.aseprite",
+   "frame": {
+    "x": 164,
+    "y": 143,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 25.aseprite",
+   "frame": {
+    "x": 205,
+    "y": 143,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 26.aseprite",
+   "frame": {
+    "x": 1,
+    "y": 164,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 27.aseprite",
+   "frame": {
+    "x": 42,
+    "y": 164,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 28.aseprite",
+   "frame": {
+    "x": 83,
+    "y": 164,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 29.aseprite",
+   "frame": {
+    "x": 124,
+    "y": 164,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 30.aseprite",
+   "frame": {
+    "x": 165,
+    "y": 164,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 31.aseprite",
+   "frame": {
+    "x": 206,
+    "y": 164,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 32.aseprite",
+   "frame": {
+    "x": 1,
+    "y": 185,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 33.aseprite",
+   "frame": {
+    "x": 42,
+    "y": 185,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 34.aseprite",
+   "frame": {
+    "x": 83,
+    "y": 185,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 35.aseprite",
+   "frame": {
+    "x": 124,
+    "y": 185,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 36.aseprite",
+   "frame": {
+    "x": 165,
+    "y": 185,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 37.aseprite",
+   "frame": {
+    "x": 206,
+    "y": 185,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 38.aseprite",
+   "frame": {
+    "x": 1,
+    "y": 206,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 39.aseprite",
+   "frame": {
+    "x": 42,
+    "y": 206,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 40.aseprite",
+   "frame": {
+    "x": 83,
+    "y": 206,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 41.aseprite",
+   "frame": {
+    "x": 124,
+    "y": 206,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 42.aseprite",
+   "frame": {
+    "x": 165,
+    "y": 206,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 43.aseprite",
+   "frame": {
+    "x": 206,
+    "y": 206,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 44.aseprite",
+   "frame": {
+    "x": 1,
+    "y": 227,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 45.aseprite",
+   "frame": {
+    "x": 42,
+    "y": 227,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 46.aseprite",
+   "frame": {
+    "x": 83,
+    "y": 227,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 47.aseprite",
+   "frame": {
+    "x": 124,
+    "y": 227,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 48.aseprite",
+   "frame": {
+    "x": 165,
+    "y": 227,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 49.aseprite",
+   "frame": {
+    "x": 206,
+    "y": 227,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 50.aseprite",
+   "frame": {
+    "x": 1,
+    "y": 248,
+    "w": 40,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 20
+   },
+   "duration": 90
+  },
+  {
+   "filename": "arcade 51.aseprite",
+   "frame": {
+    "x": 42,
+    "y": 248,
+    "w": 6,
+    "h": 18
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 6,
+    "h": 18
+   },
+   "sourceSize": {
+    "w": 6,
+    "h": 18
+   },
+   "duration": 100
+  },
+  {
+   "filename": "arcade 52.aseprite",
+   "frame": {
+    "x": 49,
+    "y": 248,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   },
+   "duration": 100
+  }
+ ],
+ "meta": {
+  "app": "tools/generate_sprites.py",
+  "version": "1.0",
+  "image": "arcade.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 256,
+   "h": 281
+  },
+  "scale": "1",
+  "frameTags": [
+   {
+    "name": "cegla-1",
+    "from": 0,
+    "to": 0,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "cegla-2",
+    "from": 1,
+    "to": 1,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "cegla-3",
+    "from": 2,
+    "to": 2,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "cegla-4",
+    "from": 3,
+    "to": 3,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "cegla-5",
+    "from": 4,
+    "to": 4,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "cegla-6",
+    "from": 5,
+    "to": 5,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "twarda-0",
+    "from": 6,
+    "to": 6,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "twarda-1",
+    "from": 7,
+    "to": 7,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "twarda-2",
+    "from": 8,
+    "to": 8,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "metal",
+    "from": 9,
+    "to": 12,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "wybuchowa",
+    "from": 13,
+    "to": 14,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "ukryta",
+    "from": 15,
+    "to": 15,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "paletka",
+    "from": 16,
+    "to": 18,
+    "direction": "pingpong",
+    "color": "#000000ff"
+   },
+   {
+    "name": "paletka-laser",
+    "from": 19,
+    "to": 21,
+    "direction": "pingpong",
+    "color": "#000000ff"
+   },
+   {
+    "name": "pilka",
+    "from": 22,
+    "to": 22,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "moc-szersza",
+    "from": 23,
+    "to": 26,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "moc-multi",
+    "from": 27,
+    "to": 30,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "moc-laser",
+    "from": 31,
+    "to": 34,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "moc-klej",
+    "from": 35,
+    "to": 38,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "moc-wolniej",
+    "from": 39,
+    "to": 42,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "moc-siatka",
+    "from": 43,
+    "to": 46,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "moc-zycie",
+    "from": 47,
+    "to": 50,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "laser",
+    "from": 51,
+    "to": 51,
+    "direction": "forward",
+    "color": "#000000ff"
+   },
+   {
+    "name": "ikona",
+    "from": 52,
+    "to": 52,
+    "direction": "forward",
+    "color": "#000000ff"
+   }
+  ],
+  "layers": [
+   {
+    "name": "Layer 1",
+    "opacity": 255,
+    "blendMode": "normal"
+   }
+  ],
+  "slices": []
+ }
+}

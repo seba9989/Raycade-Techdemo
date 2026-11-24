@@ -1,0 +1,16 @@
+Format poziomu Rykoszetu (plik .txt, UTF-8)
+
+Wiersze zaczynające się od "nazwa=" i "tlo=" to ustawienia, "#" - komentarz.
+Pozostałe wiersze to siatka cegieł: 13 kolumn, najwyżej 14 wierszy (nadmiar jest pomijany).
+
+  .        puste pole
+  1 - 6    zwykła cegła w kolorze palety (1 trafienie)
+  H        twarda cegła (3 trafienia, pęka)
+  M        metal - niezniszczalna, nie liczy się do ukończenia poziomu
+  X        wybuchowa - niszczy cegły w promieniu (także metal)
+  <  >     ruchoma - jeździ w poziomie (o dwa pola w każdą stronę), zaczyna w podanym kierunku
+  ?        ukryta - niewidoczna do pierwszego trafienia, potem zwykła (2 trafienia)
+
+tlo=0..3 wybiera układ tła rysowanego na płótnie (Canvas).
+
+Własny poziom wystarczy przeciągnąć na okno gry - zacznie się od razu.
